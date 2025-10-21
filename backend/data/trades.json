@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Electrician",
+    "duration": "2 Years",
+    "description": "Covers electrical wiring, maintenance, and repair of electrical systems.",
+    "images": [
+      "images/trades/electrician/1.jpeg",
+      "images/trades/electrician/2.jpeg",
+      "images/trades/electrician/3.jpeg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Fitter",
+    "duration": "2 Years",
+    "description": "Focuses on fitting, assembly, and maintenance of machinery components.",
+    "images": [
+      "images/trades/fitter/1.jpeg",
+      "images/trades/fitter/2.jpeg",
+      "images/trades/fitter/3.jpeg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Mechanic Electric Vehicle",
+    "duration": "2 Years",
+    "description": "Hands-on training in electric vehicle mechanics, motors, and batteries.",
+    "images": [
+      "images/trades/ev/1.jpg",
+      "images/trades/ev/2.jpg",
+      "images/trades/ev/3.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "CNC Machining Technician",
+    "duration": "2 Years",
+    "description": "Training in CNC machine setup, operation, and maintenance for precision manufacturing.",
+    "images": [
+      "images/trades/cnc/1.jpg",
+      "images/trades/cnc/2.jpg",
+      "images/trades/cnc/3.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Industrial Robotics and Digital Manufacturing Technician",
+    "duration": "2 Years",
+    "description": "Covers industrial robotics, automation systems, and digital manufacturing processes.",
+    "images": [
+      "images/trades/robotics/1.jpeg",
+      "images/trades/robotics/2.jpeg",
+      "images/trades/robotics/3.jpeg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Manufacturing Process and Automation Control",
+    "duration": "2 Years",
+    "description": "Focuses on modern manufacturing processes, automation, and production line control.",
+    "images": [
+      "images/trades/automation/1.jpeg",
+      "images/trades/automation/2.jpeg",
+      "images/trades/automation/3.jpeg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Virtual Analysis and Designer FEM",
+    "duration": "2 Years",
+    "description": "Teaches finite element method (FEM), virtual simulation, and product design analysis.",
+    "images": [
+      "images/trades/fem/1.jpeg",
+      "images/trades/fem/2.jpeg",
+      "images/trades/fem/3.jpeg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Engineering Design Technician",
+    "duration": "2 Years",
+    "description": "Covers CAD tools, product design, drafting, and engineering visualization techniques.",
+    "images": [
+      "images/trades/design/1.jpeg",
+      "images/trades/design/2.jpeg",
+      "images/trades/design/3.jpeg"
+    ]
+  }
+]

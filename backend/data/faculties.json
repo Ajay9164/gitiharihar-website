@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Jayappa M",
+    "qualification": "B.E in Mechanical Engineering",
+    "role": "Principal",
+    "image": "images/faculties/principal.jpg"
+  },
+  {
+    "name": "Jayaprakash",
+    "qualification": "Diploma in Mechanical Engineering",
+    "role": "Faculty",
+    "trade": "Ed/Wcs with CNC",
+    "image": "images/faculties/jayaprakash.jpeg"
+  },
+  {
+    "name": "Veeresh",
+    "qualification": "Diploma in EEE",
+    "role": "Faculty",
+    "trade": "Electrician",
+    "image": "images/faculties/veeresh.jpeg"
+  },
+  {
+    "name": "Uttam Charan",
+    "qualification": "B.E in Mechanical Engineering",
+    "role": "Faculty",
+    "trade": "Fitter",
+    "image": "images/faculties/uttam.jpeg"
+  },
+  {
+    "name": "Boopal",
+    "qualification": "Diploma in Mechanical Engineering",
+    "role": "Faculty",
+    "trade": "Fitter",
+    "image": "images/faculties/boopal.jpeg"
+  },
+  {
+    "name": "Shankar",
+    "qualification": "Diploma in EEE",
+    "role": "Faculty",
+    "trade": "Electrician",
+    "image": "images/faculties/shankar.jpeg"
+  },
+  {
+    "name": "Akshatha D.S",
+    "qualification": "B.E Mechanical + M.Tech in Biodiesel",
+    "role": "Faculty",
+    "trade": "Advanced CNC Machining",
+    "image": "images/faculties/akshatha.jpeg"
+  },
+  {
+    "name": "Ajay T",
+    "qualification": "B.E in Electronics & Communication",
+    "role": "Faculty",
+    "trade": "Mechanic Electric Vehicle",
+    "image": "images/faculties/ajay.jpeg"
+  }
+]
