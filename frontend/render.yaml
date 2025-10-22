@@ -1,12 +1,19 @@
 services:
   - type: web
-    name: gitiharihar-website
+    name: giti-harihar-backend
     env: node
-    buildCommand: |
-      cd frontend && npm install && npm run build && cd ../backend && npm install
-    startCommand: node backend/server.js
-    plan: free
-    region: singapore
+    rootDir: backend
+    buildCommand: "npm install"
+    startCommand: "node server.js"
     envVars:
       - key: NODE_ENV
         value: production
+      - key: PORT
+        value: 10000
+
+  - type: web
+    name: giti-harihar-frontend
+    env: static
+    rootDir: frontend
+    buildCommand: "npm install && npm run build"
+    staticPublishPath: build
