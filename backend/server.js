@@ -16,15 +16,6 @@ app.use(express.json());
 app.use("/api/trades", tradeRoutes);
 app.use("/api/faculties", facultyRoutes);
 
-// ✅ Serve React frontend (build folder)
-const frontendPath = path.join(__dirname, "../frontend/build");
-app.use(express.static(frontendPath));
-
-// ✅ Correct fallback route for Express 5
-app.use((req, res) => {
-  res.sendFile(path.join(frontendPath, "index.html"));
-});
-
 // ✅ Start server
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => console.log(`✅ Server running on port ${PORT}`));
